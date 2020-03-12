@@ -1,3 +1,5 @@
+NOTE: This is the same as 4yn/iivx project, only difference is an added side.stl that can be used for more stability on the top plate.
+
 # iivx
 
 Beatmania IIDX and Sound Voltex hybrid controller running on Arduino Due
