@@ -1,5 +1,7 @@
 NOTE: This is the same as 4yn/iivx project, only difference is an added side.stl that can be used for more stability on the top plate.
+
 SECOND NOTE: Also added is a file "iivx NO buttons.ino" that is a variation of the original file by 4yn for buttons with only NO (normally open) connections
+
 THIRD NOTE: In section software, the path I had to use, was Roaming\Arduino15\packages\arduino\hardware\sam\1.6.4\cores\arduino\USB, you can get to /Roaming by typing %APPDATA% in Explorer.
 
 # iivx
